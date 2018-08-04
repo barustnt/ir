@@ -1,0 +1,2 @@
+sudo hciconfig hci0 leadv 0 % to star advertising 
+sudo hciconfig hci0 noleadv % to stop advertising 
